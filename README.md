@@ -1,4 +1,4 @@
-# Automação de Processos – GitHub e Portfólio
+🌐 Automação de Processos – GitHub e Portfólio
 
 Olá!
 
